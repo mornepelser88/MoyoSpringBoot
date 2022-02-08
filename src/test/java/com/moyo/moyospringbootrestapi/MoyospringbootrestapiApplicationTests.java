@@ -1,0 +1,13 @@
+package com.moyo.moyospringbootrestapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MoyospringbootrestapiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
